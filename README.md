@@ -10,7 +10,7 @@ An enthusiastically curious race of aliens called the Thezpions have stumbled ac
 1. Download GPT-2 124M model.
 2. Upload a text file of a Shakespeare play from [Project Gutenberg](https://www.gutenberg.org/). (I used [Romeo & Juliet](./romeo-and-juliet.txt).)
 3. Finetune the model with the following settings:
-'''
+```
 sess = gpt2.start_tf_sess()
 
 gpt2.finetune(sess,
@@ -24,9 +24,9 @@ gpt2.finetune(sess,
               sample_every=100,
               save_every=200
               )         
-'''
+```
 4. Generate text from the trained model using the following settings:
-'''
+```
 gpt2.generate(sess,
               length=1023,
               temperature=0.9,
@@ -34,10 +34,10 @@ gpt2.generate(sess,
               nsamples=5,
               batch_size=5
               )
-'''
+```
 Copy the generated text output into a text file, name it "[shakespeare-bowl-game.txt](./shakespeare-bowl-game.txt)".
 5. Generate text from the trained model again, this time with a different prefix:
-'''
+```
 gpt2.generate(sess,
               length=1023,
               temperature=0.9,
@@ -45,7 +45,7 @@ gpt2.generate(sess,
               nsamples=5,
               batch_size=5
               )
-'''
+```
 Copy the generated text output into a text file, name it "[shakespeare-bowl-commercials.txt](./shakespeare-bowl-commercials.txt)".
 
 # [ChatGPT](https://chat.openai.com/chat)
