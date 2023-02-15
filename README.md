@@ -51,11 +51,13 @@ Copy the generated text output into a text file, name it "[shakespeare-bowl-comm
 
 # [ChatGPT](https://chat.openai.com/chat)
 1. Splice the game with the commercials. Prompts used: 
+
 I've made two text files, one with sections that start with the phrase "At the football stadium" and the other with sections that start with the phrase "In a television commercial". A section is defined as starting with a phrase up until the point the phrase shows up again. I want to make a program that splices these two texts together like you're watching a big game on TV with commercials in between. It is crucial that these sections alternate one after the other (e.g. football, commercial, football, commercial). No time intervals, just the whole static text remixed for the output in the console log. ([Example](https://editor.p5js.org/dayman117242/sketches/I0N5VEPt4))
 
 Run the two text files through the program. Copy the spliced text output into a text file, name it "[shakespeare-bowl.txt](/shakespeare-bowl.txt)".
 
 2. Make a [cipher key](./alien-language.txt). Encrypt the "shakespeare-bowl.txt" file. Prompts used:
+
 Make a p5.js program that uses this cipher key to encrypt text files in the console log output. 
 ```
 encrypt = {
@@ -142,6 +144,7 @@ encrypt = {
 Run the spliced text file through the encryption program. Copy the encrypted text output into a text file, name it "[alien-signal.txt](./alien-signal.txt)".
 
 3. Make a decryption program. Prompts used:
+
 Make a program that reverses this process and decrypts the encrypted text with encrypted text files as input. ([Example](https://editor.p5js.org/dayman117242/sketches/i6w4W-e9u))
 
 Run the encrypted text file through the decryption program.
