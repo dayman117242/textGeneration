@@ -34,7 +34,8 @@ gpt2.generate(sess,
               nsamples=5,
               batch_size=5
               )
-```Copy the generated text output into a text file, name it "[shakespeare-bowl-game.txt](./shakespeare-bowl-game.txt)".
+```
+Copy the generated text output into a text file, name it "[shakespeare-bowl-game.txt](./shakespeare-bowl-game.txt)".
 
 5. Generate text from the trained model again, this time with a different prefix:
 ```
@@ -45,7 +46,8 @@ gpt2.generate(sess,
               nsamples=5,
               batch_size=5
               )
-```Copy the generated text output into a text file, name it "[shakespeare-bowl-commercials.txt](./shakespeare-bowl-commercials.txt)".
+```
+Copy the generated text output into a text file, name it "[shakespeare-bowl-commercials.txt](./shakespeare-bowl-commercials.txt)".
 
 # [ChatGPT](https://chat.openai.com/chat)
 1. Splice the game with the commercials. Prompts used: 
@@ -138,6 +140,7 @@ encrypt = {
 ([Example](https://editor.p5js.org/dayman117242/sketches/xdHne8MlS))
 
 Run the spliced text file through the encryption program. Copy the encrypted text output into a text file, name it "[alien-signal.txt](./alien-signal.txt)".
+
 3. Make a decryption program. Prompts used:
 Make a program that reverses this process and decrypts the encrypted text with encrypted text files as input. ([Example](https://editor.p5js.org/dayman117242/sketches/i6w4W-e9u))
 
