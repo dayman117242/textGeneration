@@ -153,6 +153,6 @@ Run the encrypted text file through the decryption program.
 
 ## Artist's Statement
 
--The Game:
+Wow, where to begin? This 
 
 - An artist statement that describes any previous work that the project either directly builds on or is otherwise influenced by.
