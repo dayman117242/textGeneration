@@ -6,7 +6,7 @@ An enthusiastically curious race of aliens called the Thezpions have stumbled ac
 
 ## Instructions
 
-# [GPT-2 Google Colab Notebook](https://colab.research.google.com/drive/1km-uXGbEKfEu4r6gUG60nkJMtU9BsPez?usp=sharing#sandboxMode=true)
+# [GPT-2 Google Colab Notebook](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce)
 1. Download GPT-2 124M model.
 2. Upload a text file of a Shakespeare play from [Project Gutenberg](https://www.gutenberg.org/). (I used [Romeo & Juliet](./romeo-and-juliet.txt).)
 3. Finetune the model with the following settings:
@@ -153,6 +153,6 @@ Run the encrypted text file through the decryption program.
 
 ## Artist's Statement
 
-Wow, where to begin? This 
+Wow, where to begin? This creative project drew from a myriad of inspirations, coinciding with Valentine's Day and the Super Bowl this week. I decided to consolidate these events into my project by training an AI to reinterpret romantic Shakespeare plays like Romeo & Juliet into a play-by-play transcript of a big football game intercut with similarly Renaissance-themed commercials. I was very much influenced by Bilgé Kimyonok’s Neverending Soap-Opera, especially in terms of disrupting the traditional media's boundaries in literature and television, and I realized I inadvertently evoked Shrek with my dynamic, subversive mix of medieval settings and modern popular culture. I also took inspiration from Ryan North, who adapted Shakespeare into gleefully irreverent and chaotic choose-your-own-adventure books such as To Be or Not to Be and Romeo and/or Juliet, the latter which I got to read in Lohmeyer's Theory & Practice of Interactive Storytelling. Such works definitely shaped my project's exploration of Roland Barthes's concept regarding "the death of the author" when creators break free from the author's original intent to produce subversive extensions, distortions, and reinterpretations.
 
-- An artist statement that describes any previous work that the project either directly builds on or is otherwise influenced by.
+I decided to compound the distortion a step further by implementing the cipher I discussed in my developer post, creating a fictional alien language and translator through ChatGPT while also conceiving a fun little story scenario that contextualized the generated text. I initially just wanted to play around with the cipher to explore my passion for puzzle-solving, but I unexpectedly found even more rewarding opportunities with the context of language to explore semiotics and the very essence of communication, as language alone can drastically affect the meaning of a message or work in the fluid, volatile, and dynamic process of adaptation. My project also intentionally derives from and evokes the films Contact and Arrival in regards to extraterrestrial communication, suggesting the profound applications of language and other cultural elements bridging seemingly distant civilizations, which bears even greater relevance today juxtaposed against increasingly advanced technologies.
