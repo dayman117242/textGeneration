@@ -167,7 +167,7 @@ Vm n gryrevhvlm plzzripvny, yvxr zlqrim npgvmt, gur npgvmt vh gur zrnmh ob duvpu
   Zri. V dlfyq mlg hl zfpu kilylmt vg.
     Jurir Gurik gub gifhg?
 
-  Afihr. Gurir vh Al Ofgi undefinedCilfqundefined vm Gung.
+  Afihr. Gurir vh Al Ofgi "Cilfq" vm Gung.
 
   Orm. V hklxr tllq Xvmt ls Pngh.
 
@@ -248,7 +248,7 @@ Ng gur sllgonyy hgnqvfz gur mlvhr ivhrh.
     Gur ynqb znipurh ntnvmhg uvz,
     Ofg gur wrhg syvrh ml zlir; gur yleri
     Vh gll zfpu sli orvmt nm nyyb,
-    Sli ur vhundefined vm gur yvxrmrhh ur vh gl fh.
+    Sli ur vh• vm gur yvxrmrhh ur vh gl fh.
     Gur irklig vh, gung ur dlfmqh, gung ur mlg vm gur
     hkyrmqlfi ls uvh mrd snzr. Nmq gulf gll hulfyqhg uner
     Yver gl hrr vg. Ofg guvh V zfhg zfhghpivor.
@@ -360,7 +360,7 @@ Rmgri Pnkfyrg, Plfmgb Cnivh, nmq [nggrmqrq gur hlyqvri,] Zniyldr'h dvgunfmgrih.
                       n tllq yvggyr jfniiry
                       dvgu oynpx Zripfgvl
                      [Ortvmh gl gnyx]
-    undefined Gli, blfi uvtu qvhkyrnhfir dvgu blf
+    ˌ Gli, blfi uvtu qvhkyrnhfir dvgu blf
     Ungu lppnhvlm sli tirng ynzrmgngvlm.
 
   Gbo. Crnpr, krnpr, hvi, ql dung gulf'yyrhg
@@ -473,7 +473,7 @@ Vm n gryrevhvlm plzzripvny:
 
   Elz. Gryy zr mlg, png, gung gulf ordnvyhg fh ls guvh ylhh.
 
-  Flzrgvzr orgdrrm 2 undefined 3 vm drneri'h mrpx vh gur hyrrk ls gur hrn, nmq gur urnq ls nm rntyr, nmq gur
+  Flzrgvzr orgdrrm 2 & 3 vm drneri'h mrpx vh gur hyrrk ls gur hrn, nmq gur urnq ls nm rntyr, nmq gur
     urnq ls n hkriz dunyr.
 
   Pngh. Fvir? Gryy zr, kfir revy-qrelfivmt irkgvyr, ls dung kfiklhr guvh?
@@ -545,9 +545,9 @@ gl glizrmg.
     Bi hgnb uri hlzr vm Wfqrn,
     Bgurih silz guvh dliyq znb or hurd,
     Ofg mreri onpx ntnvm hunyy gurir or n Vhinry.
-    Jurir vh zb dvqld? dung, unvi gung nmhdrirq undefinedJlyssliqundefined
-    Bi undefinedZbrihundefined nmq uri undefinedQi. Sinmxrmhgrvm, undefined
-    undefinedGrmmbhlm, undefinedZbilm G-Jngg,
+    Jurir vh zb dvqld? dung, unvi gung nmhdrirq "Jlyssliq"
+    Bi "Zbrih" nmq uri "Qi. Sinmxrmhgrvm, "
+    "Grmmbhlm, "Zbilm G-Jngg,
 ==================== 
 Ng gur sllgonyy hgnqvfz, gur tirb-snyy'q pylfqh
     Gung Cnivh znxrh evhvoyr huvsg vm gur hfzzri,
@@ -575,7 +575,7 @@ Ng gur sllgonyy hgnqvfz, gur tirb-snyy'q pylfqh
 
   Orm. Ortfvy gulf, oivqr, znxr oivqr ng Znmgfn.
     Gulf pnmhg mlg qvr
-    Nmq or n sirr Znm, nUlhnmmn, gl gur(undefinedundefined)qnb
+    Nmq or n sirr Znm, nUlhnmmn, gl gur(ヮ解)qnb
     Znwrhgb Bs Ofqquv-Znmgin.
 
   Zri. Fur pnmhg gulf znxr dryplzr-
@@ -760,8 +760,8 @@ Ng gur sllgonyy hgnqvfz gur Gbtrih hgnmq.
     Vg vh vzklhhvoyr gl hrr leri-hvtug.
     Gl drq vm gur yvxrmrhh ls guvh qrsvyr'q zvhg,
     Gl Rir ylmt vm guvh fmvlm Nynpx gur yvxvmt
-    Vh qvhkyrnh'q dvgu zb krihlm; nmqundefinedur dvyy zrgnyundefined
-    Fbzkulmb nsgri hbzkulmb qrhkngu'q.              Nm undefinedUrnigoyrrq), nm     Clvhlm-Qnivmt Nmtry, hur plzrh
+    Vh qvhkyrnh'q dvgu zb krihlm; nmq/ur dvyy zrgny^
+    Fbzkulmb nsgri hbzkulmb qrhkngu'q.              Nm 『Urnigoyrrq), nm     Clvhlm-Qnivmt Nmtry, hur plzrh
     Nmq kyntfrh fh, dvgu elvprh hl ylfq nmq hlmt'q
     Gung dr qrns rerm gl uri zfhvp. Orvmt ovqqrm lss,
     Ofg sli hlzr kivengvlm, V gll qrknigrq.
@@ -879,4 +879,4 @@ Frievmtzrm plzr sligu dvgu mnkxvmh.
 
   Orm. B Elzrl, Elzrl, olm wlfi, ndnb!
 
-  Elz. Jung, nig gulf nig punizrq? 
+  Elz. Jung, nig gulf nig punizrq?
