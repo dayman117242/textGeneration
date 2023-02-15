@@ -10,7 +10,7 @@ An enthusiastically curious race of aliens called the Thezpions have stumbled ac
 1. Download GPT-2 124M model.
 2. Upload a text file of a Shakespeare play from [Project Gutenberg](https://www.gutenberg.org/). (I used [Romeo & Juliet](./romeo-and-juliet.txt).)
 3. Finetune the model with the following settings:
-
+'''
 sess = gpt2.start_tf_sess()
 
 gpt2.finetune(sess,
@@ -24,8 +24,9 @@ gpt2.finetune(sess,
               sample_every=100,
               save_every=200
               )         
+'''
 4. Generate text from the trained model using the following settings:
-
+'''
 gpt2.generate(sess,
               length=1023,
               temperature=0.9,
@@ -33,10 +34,10 @@ gpt2.generate(sess,
               nsamples=5,
               batch_size=5
               )
-
+'''
 Copy the generated text output into a text file, name it "[shakespeare-bowl-game.txt](./shakespeare-bowl-game.txt)".
 5. Generate text from the trained model again, this time with a different prefix:
-
+'''
 gpt2.generate(sess,
               length=1023,
               temperature=0.9,
@@ -44,7 +45,7 @@ gpt2.generate(sess,
               nsamples=5,
               batch_size=5
               )
-
+'''
 Copy the generated text output into a text file, name it "[shakespeare-bowl-commercials.txt](./shakespeare-bowl-commercials.txt)".
 
 # [ChatGPT](https://chat.openai.com/chat)
@@ -53,7 +54,9 @@ I've made two text files, one with sections that start with the phrase "At the f
 
 Run the two text files through the program. Copy the spliced text output into a text file, name it "[shakespeare-bowl.txt](/shakespeare-bowl.txt)".
 2. Make a [cipher key](./alien-language.txt). Encrypt the "shakespeare-bowl.txt" file. Prompts used:
-Make a p5.js program that uses this cipher key to encrypt text files in the console log output. encrypt = {
+Make a p5.js program that uses this cipher key to encrypt text files in the console log output. 
+'''
+encrypt = {
   'v': 'e',
   'g': 't',
   'b': 'o',
@@ -131,7 +134,7 @@ Make a p5.js program that uses this cipher key to encrypt text files in the cons
   'Y': 'L',
   'Z': 'M'
 };
-
+'''
 ([Example](https://editor.p5js.org/dayman117242/sketches/xdHne8MlS))
 
 Run the spliced text file through the encryption program. Copy the encrypted text output into a text file, name it "[alien-signal.txt](./alien-signal.txt)".
@@ -145,8 +148,11 @@ Run the encrypted text file through the decryption program.
 ## Sample Outputs
 
 -The Game: [shakespeare-bowl-game.txt](./shakespeare-bowl-game.txt)
+
 -The Commercials: [shakespeare-bowl-commercials.txt](./shakespeare-bowl-commercials.txt)
+
 -The Combined Broadcast (Translated in English): [shakespeare-bowl.txt](/shakespeare-bowl.txt)
+
 -The Combined Broadcast (Native Language): [alien-signal.txt](./alien-signal.txt)
 
 ---
