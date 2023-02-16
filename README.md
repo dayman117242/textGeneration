@@ -153,13 +153,13 @@ Run the encrypted text file through the decryption program.
 
 ## Sample Outputs
 
--The Game: [shakespeare-bowl-game.txt](./shakespeare-bowl-game.txt)
+- The Game: [shakespeare-bowl-game.txt](./shakespeare-bowl-game.txt)
 
--The Commercials: [shakespeare-bowl-commercials.txt](./shakespeare-bowl-commercials.txt)
+- The Commercials: [shakespeare-bowl-commercials.txt](./shakespeare-bowl-commercials.txt)
 
--The Combined Broadcast (Translated in English): [shakespeare-bowl.txt](/shakespeare-bowl.txt)
+- The Combined Broadcast (Translated in English): [shakespeare-bowl.txt](/shakespeare-bowl.txt)
 
--The Combined Broadcast (Native Language): [alien-signal.txt](./alien-signal.txt)
+- The Combined Broadcast (Native Language): [alien-signal.txt](./alien-signal.txt)
 
 ---
 
